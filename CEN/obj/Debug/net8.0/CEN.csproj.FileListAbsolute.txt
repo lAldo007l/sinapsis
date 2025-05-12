@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\bin\Debug\net8.0\CEN.deps.json
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\bin\Debug\net8.0\CEN.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\bin\Debug\net8.0\CEN.pdb
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\refint\CEN.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\CEN.pdb
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CEN\obj\Debug\net8.0\ref\CEN.dll

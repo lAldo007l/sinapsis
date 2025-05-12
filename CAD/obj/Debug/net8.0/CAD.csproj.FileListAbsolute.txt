@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\CAD.deps.json
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\CAD.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\CAD.pdb
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\CEN.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\CEN.pdb
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.csproj.Up2Date
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\refint\CAD.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\CAD.pdb
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\obj\Debug\net8.0\ref\CAD.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\Service.dll
+C:\Users\ADMIN\Downloads\SINAPSIS\SinapsisPT\CAD\bin\Debug\net8.0\Service.pdb
