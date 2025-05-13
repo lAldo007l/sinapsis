@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using CAD;
 using CEN.Campaigns.ActualizarEstadoCampania;
-using CEN.Campaigns.ActualizarTotalesCampania;
 
 namespace CLN
 {

@@ -1,5 +1,7 @@
 ﻿using CEN.Campaigns.ActualizarEstadoCampania;
 using CEN.Campaigns.ActualizarTotalesCampania;
+using CEN.Campaigns.MensajesClientesPorRangoDeFechas;
+using CEN.Campaigns.ObtenerParticipacionUsuarios;
 using CLN;
 using Microsoft.AspNetCore.Mvc;
 
@@ -29,6 +31,22 @@ namespace ApiSinapsisPt.Controllers
             };
             ClnCampaignsActualizar ClnCampaigns = new();
             var response = ClnCampaigns.ActualizarEstadoCampania(request);
+            return Ok(response);
+        }
+
+        [HttpPost("MensajesClientesPorFecha")]
+        public IActionResult MensajesClientesPorFecha(MensajesClientesPorRangoDeFechasRequest request)
+        {
+            ClnMensajesClientes clnMensajes = new();
+            var response = clnMensajes.MensajesClientesPorRangoDeFechas(request);
+            return Ok(response);
+        }
+
+        [HttpPost("ParticipacionUsuarios")]
+        public IActionResult ParticipacionUsuarios(ObtenerParticipacionUsuariosRequest request)
+        {
+            ClnParticipacionUsuarios clnParticipacion = new();
+            var response = clnParticipacion.ObtenerParticipacionUsuarios(request);
             return Ok(response);
         }
     }
