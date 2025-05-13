@@ -17,6 +17,27 @@
   },
   {
     "ContainingType": "ApiSinapsisPt.Controllers.CampaignsController",
+    "Method": "MensajesClientesPorFecha",
+    "RelativePath": "Campaigns/MensajesClientesPorFecha",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FechaInicio",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaFin",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiSinapsisPt.Controllers.CampaignsController",
     "Method": "ObtenerTotalCampaigns",
     "RelativePath": "Campaigns/ObtenerTotalCampaigns/{id}",
     "HttpMethod": "GET",
@@ -27,6 +48,22 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiSinapsisPt.Controllers.CampaignsController",
+    "Method": "ParticipacionUsuarios",
+    "RelativePath": "Campaigns/ParticipacionUsuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ClienteId",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
